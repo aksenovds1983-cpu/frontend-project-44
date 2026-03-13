@@ -2,8 +2,11 @@
   "name": "@hexlet/code",
   "version": "1.0.0",
   "description": "brain-games",
+  "type": "module",
   "license": "ISC",
   "author": "aksenovds1983-cpu",
-  "type": "commonjs"
-  
+  "bin": {
+    "brain-games": "bin/brain-games.js"
+  }
+
 }
