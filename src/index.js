@@ -32,4 +32,3 @@ const runGame = (gameRules, generateRound) => {
 }
 
 export default runGame
-
